@@ -63,12 +63,12 @@ reg query "HKCU\Control Panel\Cursors\Schemes"
   "check_interval_ms": 1000,
   "auto_switch": true,
   "light": {
-    "wallpaper": "C:\\Users\\You\\Pictures\\light.jpg",
-    "cursorScheme": "Modest Cursors Light"
+    "wallpaper": "",
+    "cursorScheme": ""
   },
   "dark": {
-    "wallpaper": "C:\\Users\\You\\Pictures\\dark.jpg",
-    "cursorScheme": "Modest Cursors Dark"
+    "wallpaper": "",
+    "cursorScheme": ""
   }
 }
 ```
