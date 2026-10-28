@@ -2,11 +2,11 @@
   "check_interval_ms": 100,
   "auto_switch": true,
   "light": {
-    "wallpaper": "C:\Users\Dog\Downloads\macos-tahoe-26-5120x2880-28529.jpg",
-    "cursorScheme": "Modest Cursors Light"
+    "",
+    "cursorScheme": ""
   },
   "dark": {
-    "wallpaper": "C:\Users\Dog\Downloads\macos-tahoe-26-5120x2880-22674.jpg",
-    "cursorScheme": "Modest Cursors Dark"
+    "wallpaper": "",
+    "cursorScheme": ""
   }
 }
